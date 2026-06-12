@@ -37,24 +37,11 @@ Tools      : Git, GitHub, Electron, CI/CD Basics
   See you around! 
 </p>
 
-<!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 Snake eating my contributions 🐍</h2>
+## 🐍 Snake eating my contributions 🐍
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Tamilselvan155/Tamilselvan155/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://raw.githubusercontent.com/Tamilselvan155/Tamilselvan155/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="github-snake"
-      src="https://raw.githubusercontent.com/Tamilselvan155/Tamilselvan155/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Tamilselvan155/Tamilselvan155/output/github-contribution-grid-snake.svg"
+    alt="github snake animation"
+  />
+</p>
