@@ -34,7 +34,7 @@ Tools      : Git, GitHub, Electron, CI/CD Basics
 📧 [tamilselvan.c155@gmail.com](mailto:tamilselvan.c155@gmail.com) | 🌐 [Portfolio](https://ts-profile.netlify.app/) | 💻 [GitHub](https://github.com/Tamilselvan155) | 💼 [LinkedIn](https://www.linkedin.com/in/tamil-selvan-237237305)
 
 <p align="left">
-  See you around! 
+  See you around!  
 </p>
 
 ## 🐍 Snake eating my contributions 🐍
