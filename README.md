@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Tamilselvan 👋</h1>
+<h1 align="left">Hi, I'm Tamilselvan👋</h1>
 
 <p>
 Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and Java-based backend systems. Skilled in crafting responsive user interfaces, designing RESTful APIs, and optimizing application performance. Experienced across the full SDLC with a strong focus on clean architecture and maintainable code.
