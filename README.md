@@ -53,7 +53,7 @@ Tools      : Git, GitHub, Electron, CI/CD Basics
 
 ---
 
-## 📊 Statistics
+## 📈 Statistics & Contributions 
 
 <br />
 <div align="center">
@@ -96,6 +96,12 @@ Tools      : Git, GitHub, Electron, CI/CD Basics
 
 <br /><br />
 
+
+
+<table align="center">
+<tr>
+<td width="50%">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -106,26 +112,25 @@ Tools      : Git, GitHub, Electron, CI/CD Basics
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tamilselvan155&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"
   />
   <img
-    width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Tamilselvan155&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"
     alt="Contribution Graph"
   />
 </picture>
 
-<br /><br />
+</td>
 
-</div>
+<td width="50%" align="center">
 
-<div align="center">  
+### 🐍 Snake Eating My Contributions
 
-  ## Snake Eating My Contributions 🐍
- <img
-    src="https://raw.githubusercontent.com/Tamilselvan155/Tamilselvan155/output/github-contribution-grid-snake.svg"
-    alt="github snake animation"
-  />
-</div>
+<img
+  src="https://raw.githubusercontent.com/Tamilselvan155/Tamilselvan155/output/github-contribution-grid-snake.svg"
+  alt="GitHub Snake Animation"
+/>
 
-
+</td>
+</tr>
+</table>
 
 <p align="center">
   See you around!  
