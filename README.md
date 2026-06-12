@@ -37,11 +37,13 @@ Tools      : Git, GitHub, Electron, CI/CD Basics
   See you around!  
 </p>
 
-## 🐍 Snake eating my contributions 🐍
+<div align="center">
+  
 
-<p align="center">
-  <img
+ <img
     src="https://raw.githubusercontent.com/Tamilselvan155/Tamilselvan155/output/github-contribution-grid-snake.svg"
     alt="github snake animation"
   />
-</p>
+
+
+</div>
