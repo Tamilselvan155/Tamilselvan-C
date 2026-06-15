@@ -135,3 +135,7 @@ Tools      : Git, GitHub, Electron, CI/CD Basics
 <p align="center">
   See you around!  
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=0" width="100%" alt="Footer Wave" />
+</div>
